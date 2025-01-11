@@ -1,0 +1,14 @@
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/bin/Debug/net8.0/CommandPatternRefactoringGuru
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/bin/Debug/net8.0/CommandPatternRefactoringGuru.deps.json
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/bin/Debug/net8.0/CommandPatternRefactoringGuru.runtimeconfig.json
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/bin/Debug/net8.0/CommandPatternRefactoringGuru.dll
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/bin/Debug/net8.0/CommandPatternRefactoringGuru.pdb
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.AssemblyInfoInputs.cache
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.AssemblyInfo.cs
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.csproj.CoreCompileInputs.cache
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.dll
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/refint/CommandPatternRefactoringGuru.dll
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.pdb
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/CommandPatternRefactoringGuru.genruntimeconfig.cache
+/Users/andy/Code/CommandPatternRefactoringGuru/CommandPatternRefactoringGuru/obj/Debug/net8.0/ref/CommandPatternRefactoringGuru.dll
