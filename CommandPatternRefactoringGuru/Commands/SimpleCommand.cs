@@ -2,6 +2,7 @@ using CommandPatternRefactoringGuru.Interfaces;
 
 namespace CommandPatternRefactoringGuru.Commands;
 
+// Alguns comandos podem implementar operações simples por conta própria.
 public class SimpleCommand : ICommand {
     private string _payload = string.Empty;
 

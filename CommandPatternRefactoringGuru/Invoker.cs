@@ -2,6 +2,7 @@ using CommandPatternRefactoringGuru.Interfaces;
 
 namespace CommandPatternRefactoringGuru;
 
+// O Invoker é associado a um ou vários comandos. Ele envia uma request ao comando.
 public class Invoker {
     private ICommand _onStart = default!;
     private ICommand _onFinish = default!;
@@ -14,6 +15,8 @@ public class Invoker {
         _onFinish = command;
     }
 
+    // O Invoker não depende de classes concretas de comando ou receptor.
+    // O Invoker passa uma request para um receptor indiretamente, executando um comando.
     public void DoSomethingImportant() {
         Console.WriteLine("Invoker: Alguém quer que algo seja feito antes de eu começar?");
         if (_onStart is ICommand) {
